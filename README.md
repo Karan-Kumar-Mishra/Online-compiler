@@ -5,7 +5,7 @@ This project is an online compiler built with Node.js, HTML, CSS, JavaScript, an
 
 # Features
 Real-time Execution: Code execution with instant feedback.<br>
-Multi-language Support: Currently supports JavaScript, Python, Java, C++, and more. <br>
+Multi-language Support: Currently supports c, Python, C++, and more. <br>
 User-friendly Interface: Intuitive design for easy code writing and debugging. <br>
 Syntax Highlighting: Code displayed with syntax highlighting for improved readability. <br>
 Error Handling: Instant error detection and highlighting. <br>
