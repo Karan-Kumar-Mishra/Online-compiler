@@ -24,5 +24,3 @@ npm install
 apt install gcc -y
 apt install python3 -y
 node server.js```
-
-
