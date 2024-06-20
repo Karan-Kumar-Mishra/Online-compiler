@@ -17,7 +17,8 @@ Socket.IO: Real-time communication between client and server. <br>
 ![Screenshot (399)](https://github.com/Karan-Kumar-Mishra/Online-compiler/assets/93134411/9b7d32b3-469f-4308-be91-af266d3b6837) <br><br>
 
 # Installation<br>
-```git clone https://github.com/Karan-Kumar-Mishra/Online-compiler
+```
+git clone https://github.com/Karan-Kumar-Mishra/Online-compiler
 cd Online-compiler
 cd Online-compiler
 npm install
