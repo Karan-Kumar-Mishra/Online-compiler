@@ -24,4 +24,11 @@ cd Online-compiler
 npm install
 apt install gcc -y
 apt install python3 -y
-node server.js```
+node server.js
+```
+<br><br>
+# Demo video
+<video width="640" height="360" controls>
+  <source src="https://www.linkedin.com/posts/karan-mishra-892970247_nodejs-html-css-activity-7209832739548663808-OKrW?trk" type="video/mp4">
+</video>
+
