@@ -27,6 +27,11 @@ apt install python3 -y
 node server.js
 ```
 <br><br>
+# Installation using Docker <br> 
+https://hub.docker.com/repository/docker/mishrazack69414karan/online-compiler/general
+```
+docker pull mishrazack69414karan/online-compiler:latest
+```
 # Demo video
-<a herf="https://www.linkedin.com/posts/karan-mishra-892970247_nodejs-html-css-activity-7209832739548663808-OKrW?trk">Watch Demo Video</a>
+https://www.linkedin.com/posts/karan-mishra-892970247_nodejs-html-css-activity-7209832739548663808-OKrW?trk"
 
