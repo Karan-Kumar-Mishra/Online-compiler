@@ -30,7 +30,7 @@ node server.js
 # Installation using Docker <br> 
 https://hub.docker.com/repository/docker/mishrazack69414karan/online-compiler/general
 ```
-docker pull mishrazack69414karan/online-compiler:latest
+docker pull mishrazack69414karan/online-compiler:compiler
 ```
 # Demo video
 https://www.linkedin.com/posts/karan-mishra-892970247_nodejs-html-css-activity-7209832739548663808-OKrW?trk"
